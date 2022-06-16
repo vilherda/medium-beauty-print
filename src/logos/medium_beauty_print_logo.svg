@@ -1,0 +1,20 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_24" height="450" width="290" y="25.4" x="105" stroke-width="10" stroke="#000000" fill="#ffffff"/>
+  <rect rx="30" stroke-width="10" stroke="#000" id="svg_1" height="200" width="450" y="150.39998" x="25" fill="#ffffff"/>
+  <rect id="svg_23" height="60" width="270" y="150.19998" x="115" stroke-width="10" stroke="#000000" fill="#000000"/>
+  <rect id="svg_22" height="60" width="270" y="290.19998" x="115" stroke-width="10" stroke="#000000" fill="#000000"/>
+  <rect stroke="#000000" id="svg_5" height="150" width="250" y="42.59998" x="124.6" stroke-width="10" fill="#ffffff"/>
+  <ellipse ry="61" rx="61" id="svg_10" cy="116.59998" cx="249.6" stroke-width="10" stroke="#000000" fill="#ffffff"/>
+  <rect stroke="#000000" id="svg_12" height="150" width="250" y="305.59998" x="124.6" stroke-width="10" fill="#ffffff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="100" id="svg_13" y="417.59998" x="158.6" stroke-width="10" stroke="#000000" fill="#000000">PDF</text>
+  <path id="svg_16" d="m66.6,489.59998" opacity="NaN" stroke-width="10" stroke="#000000" fill="#ffffff"/>
+  <path id="svg_17" d="m66.6,490.59998" opacity="NaN" stroke-width="10" stroke="#000000" fill="#ffffff"/>
+  <path id="svg_18" d="m58.6,528.59998" opacity="NaN" stroke-width="10" stroke="#000000" fill="#ffffff"/>
+  <path id="svg_19" d="m60.6,498.59998" opacity="NaN" stroke-width="10" stroke="#000000" fill="#ffffff"/>
+  <ellipse ry="12.5" rx="12.5" id="svg_21" cy="192.09998" cx="435.1" stroke-width="10" stroke="#000000" fill="#7fff00"/>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="100" id="svg_9" y="149.59998" x="202.6" stroke-width="0" stroke="#000000" fill="#000000">M</text>
+ </g>
+</svg>

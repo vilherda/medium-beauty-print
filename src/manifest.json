@@ -1,0 +1,27 @@
+{
+    "name": "Medium beauty print",
+    "description": "Medium beauty print",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "author": "vilherda",
+    "action": {
+        "default_title": "Medium beauty print",
+        "default_icon": {
+            "16": "/logos/medium_beauty_print_logo_16.png",
+            "32": "/logos/medium_beauty_print_logo_32.png",
+            "48": "/logos/medium_beauty_print_logo_48.png",
+            "128": "/logos/medium_beauty_print_logo_128.png"
+        }
+    },
+    "icons": {
+        "16": "/logos/medium_beauty_print_logo_16.png",
+        "32": "/logos/medium_beauty_print_logo_32.png",
+        "48": "/logos/medium_beauty_print_logo_48.png",
+        "128": "/logos/medium_beauty_print_logo_128.png"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": ["activeTab", "clipboardWrite", "scripting"],
+    "host_permissions": ["https://*.medium.com/*"]
+}

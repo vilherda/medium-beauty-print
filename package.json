@@ -1,0 +1,25 @@
+{
+  "name": "medium-beauty-print",
+  "version": "1.0.0",
+  "description": "Chrome extension to print Medium articles (just a little bit) better than default",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vilherda/medium-beauty-print.git"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "medium",
+    "print"
+  ],
+  "author": "vilherda@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vilherda/medium-beauty-print/issues"
+  },
+  "homepage": "https://github.com/vilherda/medium-beauty-print#readme"
+}
